@@ -13,3 +13,5 @@ we extracts weather data from google. Google does not have its own weather API, 
 
 ![App Screenshot](https://i.postimg.cc/FKg6gpBR/Weather-App.png)
 
+
+  
